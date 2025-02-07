@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-<h3>Sobre mim</h3>
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Análise e Desenvolvimento de sistemas** no <a href="https://www.df.senac.br/faculdade/">SenacDF</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+<h3>Sobre mim</h3><br>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.<br>
+- 🎓 Estudando **Análise e Desenvolvimento de sistemas** no <a href="https://www.df.senac.br/faculdade/">SenacDF</a>.<br>
+- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.<br>
 <h3>Minhas Skills</h3>
 **Aplicações e dados**
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
