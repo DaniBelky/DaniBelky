@@ -1,5 +1,7 @@
 <div align="center">
   Olá
+  Sou um estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por **Psicologia e Tecnologia**.  
+Atualmente, estou estudando **Desenvolvimento Web e Inteligência Artificial**.  
 </div>
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniBelky&show_icons=true&theme=radical)
