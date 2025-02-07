@@ -20,4 +20,4 @@ Praze, sou Daniel Belkyor
 
 </div>
 
-
+[LinkedIn](https://linkedin.com/in/seu-usuario) | [Portfólio](https://seusite.com)
