@@ -1,7 +1,7 @@
 <div align="center">
   Olá
   <br>
-  Sou um estudante de __Análise e Desenvolvimento de Sistemas__ apaixonado por **Psicologia e Tecnologia**.  
+  Sou um estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por **Psicologia e Tecnologia**.  
 Atualmente, estou estudando **Desenvolvimento Web e Inteligência Artificial**.  
 </div>
 ##
