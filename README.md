@@ -37,4 +37,4 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/daniel-b-664723302)](www.linkedin.com/in/daniel-b-664723302)
+[![Linkedin](https://img.shields.io/badge/-DanielBelkyor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/daniel-b-664723302)](www.linkedin.com/in/daniel-b-664723302)
