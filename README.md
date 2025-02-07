@@ -31,9 +31,10 @@
 
 <br/>
 
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DaniBelky&show_icons=true0&layout=compact&theme=radical&locale=en&hide_border=true&title_color=ffd700&hide=total-issues,contributed-to" alt="DaniBelky" style="max-width: 100%;" height="160em" />
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniBelky&layout=compact&theme=radical&title_color=ffd700&hide_border=true" alt="LeonardoMachado30" height="190em" />
 
+</div>
