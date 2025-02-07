@@ -1,8 +1,8 @@
 ## Sobre mim
  
 - 🤔 Aprimorando meus conhecimentos em back-end.<br>
-- 🎓 Estudando {Análise e Desenvolvimento de sistemas} no {Senac}.<br>
-- 🌱 Aprendendo mais sobre {Laravel, React, Vue, JavaScript}.<br>
+- 🎓 Estou estudando **Análise e Desenvolvimento de sistema** na **Faculdade Senac**.<br>
+- 🌱 Estou focado em **Laravel, React, Vue e JavaScript**.<br>
 
 ## Minhas Skilss
 
@@ -36,5 +36,5 @@
 </a>
 
 ## Onde me encontrar
-
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [![Linkedin](https://img.shields.io/badge/-DanielB-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/daniel-b-664723302)](www.linkedin.com/in/daniel-b-664723302)
