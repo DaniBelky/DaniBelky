@@ -19,7 +19,6 @@
 
 **Utilidades**
 
-![Postman](https://img.shields.io/badge/PostMan-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 **DevOps**
