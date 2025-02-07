@@ -34,3 +34,7 @@
 <a href="https://github.com/iuricode" title="Perfil do Iuri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DaniBelky30&show_icons=true0&layout=compact&theme=radical&locale=en&hide_border=true&title_color=ffd700&hide=total-issues,contributed-to" alt="LeonardoMachado30" style="max-width: 100%;" height="160em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniBelky30&layout=compact&theme=radical&title_color=ffd700&hide_border=true" alt="LeonardoMachado30" height="190em" />
+
