@@ -38,6 +38,5 @@
 </a>
 
 ## Onde me encontrar
-[![Linkedin](https://img.shields.io/badge/-DanielB-blue?style=flat-square&logo=Li
-nkedin&logoColor=white&link=www.linkedin.com/in/daniel-b-664723302)](www.linkedin.com/in/daniel-b-664723302)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-b-664723302/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZdjpQSQmTrngbGsGhwGqXTVfXCLtVpKzCZBhssXnZxSqbHVMXJCRvmGhkqkfNPFglHfPL)
