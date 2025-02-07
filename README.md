@@ -1,7 +1,5 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
-<h3>Sobre mim</h3>
+<h3>Sobre mim</h3><br>
 ## 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {Análise e Desenvolvimento de sistemas} no {Senac}.
-- 🌱 Aprendendo mais sobre {Laravel, React, Vue, JavaScript}.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.<br>
+- 🎓 Estudando {Análise e Desenvolvimento de sistemas} no {Senac}.<br>
+- 🌱 Aprendendo mais sobre {Laravel, React, Vue, JavaScript}.<br>
