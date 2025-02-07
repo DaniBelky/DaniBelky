@@ -1,6 +1,6 @@
 ## Sobre mim
  
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.<br>
+- 🤔 Aprimorando meus conhecimentos em back-end.<br>
 - 🎓 Estudando {Análise e Desenvolvimento de sistemas} no {Senac}.<br>
 - 🌱 Aprendendo mais sobre {Laravel, React, Vue, JavaScript}.<br>
 
