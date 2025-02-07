@@ -1,10 +1,12 @@
 <div align="center">
   Olá
   <br>
-  Sou um estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por **Psicologia e Tecnologia**.  
+  Sou um estudante de * apaixonado por **Psicologia e Tecnologia**.  
 Atualmente, estou estudando **Desenvolvimento Web e Inteligência Artificial**.  
 </div>
 ##
+**ola**
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniBelky&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniBelky&layout=compact&langs_count=16&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
