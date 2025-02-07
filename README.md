@@ -5,27 +5,7 @@
 Atualmente, estou estudando **front/back-end**.  
 </div>
 ##
-
-<img src="https://github-readme-stats.vercel.app/api?username=LeonardoMachado30&show_icons=true0&layout=compact&theme=radical&locale=en&hide_border=true&title_color=ffd700&hide=total-issues,contributed-to" alt="LeonardoMachado30" style="max-width: 100%;" height="160em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact&theme=radical&title_color=ffd700&hide_border=true" alt="LeonardoMachado30" height="190em" />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniBelky&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniBelky&layout=compact&langs_count=16&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />  
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />    
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />    
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-plain.svg" />
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />      
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-
-</div>
-
+<a href="https://app.daily.dev/flavioleonardo"><img align="right" width="330" src="https://api.daily.dev/devcards/48316c647f9a4b22b61065654415f434.png?r=oko"  alt="Flavio Leonardo Machado's Dev Card"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=LeonardoMachado30&show_icons=true0&layout=compact&theme=radical&locale=en&hide_border=true&title_color=ffd700&hide=total-issues,contributed-to" alt="LeonardoMachado30" style="max-width: 100%;" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact&theme=radical&title_color=ffd700&hide_border=true" alt="LeonardoMachado30" height="216em" />
 [LinkedIn](https://linkedin.com/in/seu-usuario) | [Portfólio](https://seusite.com)
